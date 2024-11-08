@@ -32,6 +32,6 @@ The security of your data is important to us, but please remember that no method
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 **Contact Us**  
-If you have any questions about this Privacy Policy, please contact us at yashanghan008@gmsil.com.
+If you have any questions about this Privacy Policy, please contact us at yashanghan008@gmail.com.
 
 By using the Service, you agree to the collection and use of information in accordance with this policy. If you do not agree with this policy, please do not use our app.
