@@ -13,9 +13,6 @@ We do not collect any personally identifiable information from users of our app.
 - **Personal Data**  
   We do not collect any personal data from our users.
 
-- **Usage Data**  
-  We may collect information about how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your device's Internet Protocol address (e.g., IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers, and other diagnostic data.
-
 - **Imported Images**  
   Users have the option to import images from their device’s gallery to create memes. These images are not uploaded or stored on our servers; they remain only on the user's device and are used solely for meme creation within the app. We do not collect, store, or share any imported images.
 
